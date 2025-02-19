@@ -2,8 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning html,css and js
 - 💞️ I’m looking to collaborate on gaming
-- 📫 How to reach me U hab to be a segma
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/human
 - ⚡ Fun fact: I am a human
 
 <!---

@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <h1 align="center">Hello, I'm JustAHuman 👋</h1>
 
 <p align="center">
@@ -12,7 +11,6 @@
 
 - 🔭 I’m currently working on: nothing
 - 🌱 I’m currently learning: Discord.js and Node js
-- 📫 How to reach me: [kashyaparnav671@gmail.com](mailto:kashyaparnav671@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a human
 
@@ -38,6 +36,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAHuman14&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JustAHuman14/JustAHuman14/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JustAHuman14/JustAHuman14/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/JustAHuman14/JustAHuman14/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---
 
 ### 📫 Let's Connect!
@@ -47,11 +60,3 @@
 ---
 
 _✨ Thanks for visiting my profile!✨_
-=======
-- 👋 Hi, I’m @JustAHuman14
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning html,css and js
-- 💞️ I’m looking to collaborate on gaming
-- 😄 Pronouns: he/him/human
-- ⚡ Fun fact: I am a human
->>>>>>> Stashed changes

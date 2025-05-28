@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <h1 align="center">Hello, I'm JustAHuman 👋</h1>
 
 <p align="center">
@@ -46,3 +47,11 @@
 ---
 
 _✨ Thanks for visiting my profile!✨_
+=======
+- 👋 Hi, I’m @JustAHuman14
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning html,css and js
+- 💞️ I’m looking to collaborate on gaming
+- 😄 Pronouns: he/him/human
+- ⚡ Fun fact: I am a human
+>>>>>>> Stashed changes

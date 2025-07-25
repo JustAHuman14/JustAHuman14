@@ -10,7 +10,7 @@
 <h2>👨‍💻 About Me</h2>
 
 - 🔭 I’m currently working on: nothing
-- 🌱 I’m currently learning: Discord.js and Node js
+- 🌱 I’m currently learning: Typescript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a human
 

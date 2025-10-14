@@ -10,7 +10,7 @@
 <h2>👨‍💻 About Me</h2>
 
 - 🔭 I’m currently working on: nothing
-- 🌱 I’m currently learning: Typescript
+- 🌱 I’m currently learning: C#
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a human
 
@@ -22,9 +22,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="git" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=64&id=3tC9EQumUAuq&format=png" alt="github" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=64&id=3tC9EQumUAuq&format=png" alt="github" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="nodejs" width="40" height="40"/>
 </p>
 
 ---

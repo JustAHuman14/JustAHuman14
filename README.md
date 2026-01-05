@@ -9,14 +9,14 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 🔭 I’m currently working on: nothing
-- 🌱 I’m currently learning: C#
+- 🔭 I’m currently working on: IDK
+- 🌱 I’m currently learning: IDK
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a human
 
 ---
 
-<h2>🛠️ Languages and Tools:</h2>
+<h2>🛠️ Languages and Tools (Noob in everything)</h2>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -29,17 +29,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="csharp" width="40" height="40"/>
 </p>
 
 ---
 
 <h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustAHuman14&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAHuman14&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-</p>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
